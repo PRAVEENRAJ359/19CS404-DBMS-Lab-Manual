@@ -235,6 +235,7 @@ having MIN(salary)<2000;
 
 <img width="1055" height="427" alt="image" src="https://github.com/user-attachments/assets/30f63a3a-f1a0-4be8-b085-655809521bd3" />
 
+<img width="1011" height="122" alt="image" src="https://github.com/user-attachments/assets/fd64402c-d9cc-47f5-93c9-23b3fe039401" />
 
 
 
